@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: About
+permalink: /about/
 ---
-![_config.yml]({{ site.baseurl }})
-
 I'm a fourth year student at Tohoku University.
 
 ###Research Interest
