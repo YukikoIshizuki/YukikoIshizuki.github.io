@@ -25,7 +25,7 @@ I'm a fourth year student at Tohoku University.
     
 ### Others
 - [AI王 〜クイズAI日本一決定戦〜](https://sites.google.com/view/project-aio/) 
-    - 実行委員, 202/12-
+    - 実行委員, 2021/12-
 
 
 
