@@ -23,7 +23,7 @@ I'm a fourth year student at Tohoku University.
 - Wolt Japan株式会社
     - ビジネスインターン, 2020/11-2022/02
     
-###Others
+### Others
 - [AI王 〜クイズAI日本一決定戦〜](https://sites.google.com/view/project-aio/) 
     - 実行委員, 202/12-
 
