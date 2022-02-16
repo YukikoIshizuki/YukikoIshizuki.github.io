@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+![_config.yml]({{ site.baseurl }}/images/config.png)
 ##Publications
 ### Domestic conferences/others
 - 石月由紀子, 栗林樹生, 松林優一郎, 大関洋平. **情報量に基づく日本語項省略の分析**\
