@@ -11,11 +11,13 @@ I'm a master's student at Tohoku University.
 # 🎓  Education 
 - 東北大学教育学研究科
     - [松林研究室](https://www.edunlp.sed.tohoku.ac.jp/) , 2022/04-
+
 - 東北大学教育学部教育科学科
     - [松林研究室](https://www.edunlp.sed.tohoku.ac.jp/) , 2018/04-2022/03
 - 新潟県立新潟高等学校 理数科, 2014/04-2017/03
 # 💻  Programming Skill
 - Python
+
 # 🚀  Experience
 ### Research
 - 理研AIP　自然言語理解チーム　
@@ -30,6 +32,8 @@ I'm a master's student at Tohoku University.
 - Wolt Japan株式会社 
     - Operations Associate, 2020/11-2022/02 (長期インターン)
 ### Others
+- 理研AIP 女子中高生のための「数理・情報・AI」最前線！第6回
+    - スピーカー, 2023/01/27
 - 東北大学 教育学部専門科目 教育学研究入門
     - Teaching Assistant, 2022/10-2023/02
 - Workshop on ExploreCSR @ Tohoku University
