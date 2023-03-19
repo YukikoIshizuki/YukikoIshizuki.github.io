@@ -17,9 +17,9 @@ I'm a master's student at Tohoku University.
 - 新潟県立新潟高等学校 理数科, 2014/04-2017/03
 
 # 🏆 Awards
-- [言語処理学会第29回年次大会 委員特別賞](https://www.anlp.jp/nlp2023/award.html)
-# 📚 Publications
+- [言語処理学会第29回年次大会 委員特別賞](https://www.anlp.jp/nlp2023/award.html) , 2023/03 
 
+# 📚 Publications
 - 石月由紀子, 栗林樹生, 松林優一郎, 笹野遼平, 乾健太郎. **日本語話者の項省略判断に関するアノテーションとモデリング**\
    *言語処理学会第29回年次大会予稿集*, pp.91-96, March 2023.
 - 石月由紀子, 栗林樹生, 松林優一郎, 大関洋平. **情報量に基づく日本語項省略の分析**\
